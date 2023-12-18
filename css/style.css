@@ -1,6 +1,3 @@
-body{
-    background-color: #011e2c;
-}
 .navbar-brand{
     font-weight: 500;
     font-size: 28px;
@@ -10,5 +7,4 @@ body{
 }
 .jumbotron{
     background-color: #011e2c;
-    color: white;
 }
